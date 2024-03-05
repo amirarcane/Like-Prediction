@@ -20,5 +20,3 @@ Our dataset comprises a diverse range of tweets, with the number of likes varyin
 The final model, a sophisticated blend of BERT for textual analysis and CNN for numerical data interpretation achieved a Mean Absolute Error (MAE) of 9.07 likes. Given the average like count of 44, this MAE represents approximately 20.6% of the average like count.
 
 The results demonstrate the potential of our approach to provide insights into tweet popularity, making it a valuable tool for researchers and practitioners interested in social media analytics.
-
-![heatmap](https://github.com/amirarcane/English-Tweets/assets/15520230/ab5aa382-d227-409d-b8ab-9b93bf26f608)
